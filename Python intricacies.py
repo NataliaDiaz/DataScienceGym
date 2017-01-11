@@ -15,8 +15,6 @@ def get_current_hand_points(self, player):
     in place: cards = cards.sort(key=lambda x:....)
     """
     sum = 0
-  
-
 
 def copying_and_altering_list():
     originalFeatures = ['trip_id','shopper_id','fulfillment_model','store_id','shopping_started_at','shopping_ended_at']
